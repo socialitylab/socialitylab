@@ -1,1 +1,1 @@
-- 👋 Hi, we're the Human Sociality Lab at Washington State University. You can learn more about us at www.socialitylab.org.
+- 👋 Hi, we're the Human Sociality Lab at Penn State and Washington State Universities. You can learn more about us at www.socialitylab.org.
